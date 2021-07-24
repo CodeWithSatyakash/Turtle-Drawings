@@ -9,7 +9,7 @@ def myPosition(x, y):
     
 pensize(2)
 
-def ankur():
+def Satya():
     fillcolor('#ffec40')
     begin_fill()
     right(25)
@@ -540,7 +540,7 @@ def allEyebrows():
 def allEyes():
     myallEyes1(17,275)
     myallEyes2(95,270)
-ankur()
+Satya()
 allLegs()
 myShirt()
 myHead()
